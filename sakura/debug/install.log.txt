@@ -1,0 +1,179 @@
+13:07:11.887 DEBUG Writing database to /blog/themes-configs/.hexo-multi-themes/sakura/db.json
+13:07:11.896 INFO  Config based on 5 files
+13:07:11.897 DEBUG Writing _multiconfig.yml to /blog/themes-configs/.hexo-multi-themes/sakura/_multiconfig.yml
+13:07:11.908 DEBUG Hexo version: 6.2.0
+13:07:11.908 DEBUG Working directory: /blog/themes-configs/.hexo-multi-themes/sakura/
+13:07:11.965 DEBUG Updating package.json
+13:07:11.970 DEBUG Config loaded: /blog/themes-configs/.hexo-multi-themes/sakura/_multiconfig.yml
+13:07:11.970 INFO  Validating config
+13:07:11.994 DEBUG Plugin loaded: hexo-renderer-ejs
+13:07:11.994 DEBUG Plugin loaded: hexo-renderer-marked
+13:07:11.994 DEBUG Plugin loaded: hexo-fightinggg-enhancer
+13:07:11.995 DEBUG Plugin loaded: hexo-generator-archive
+13:07:11.995 DEBUG Plugin loaded: hexo-generator-category
+13:07:11.995 DEBUG Plugin loaded: hexo-generator-index
+13:07:11.995 DEBUG Plugin loaded: hexo-generator-tag
+13:07:12.101 DEBUG Plugin loaded: hexo-renderer-stylus
+13:07:12.101 DEBUG Plugin loaded: hexo-server
+13:07:12.108 INFO  Start processing
+13:07:12.167 DEBUG Processed: _posts/Hexo Boot Docs/config-github.png
+13:07:12.168 DEBUG Processed: _posts/Hexo Boot Docs/multi-theme-config.png
+13:07:12.168 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-config-github.png
+13:07:12.168 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-multi-theme-config.png
+13:07:12.195 DEBUG Processed: _posts/Hexo Boot Docs/index.md
+13:07:12.195 DEBUG Processed: _posts/Hexo Boot Docs ZH/index.md
+13:07:12.297 DEBUG Processed: source/404.html
+13:07:12.297 DEBUG Processed: source/warn.html
+13:07:12.297 DEBUG Processed: source/css/APlayer.min.css
+13:07:12.297 DEBUG Processed: source/css/bangumi.css
+13:07:12.297 DEBUG Processed: source/css/donate.css
+13:07:12.297 DEBUG Processed: source/css/font.css
+13:07:12.298 DEBUG Processed: source/css/insight.styl
+13:07:12.298 DEBUG Processed: source/css/jquery.fancybox.min.css
+13:07:12.298 DEBUG Processed: source/css/lib.min.css
+13:07:12.298 DEBUG Processed: source/css/sharejs.css
+13:07:12.298 DEBUG Processed: source/css/style.css
+13:07:12.298 DEBUG Processed: source/css/zoom.css
+13:07:12.298 DEBUG Processed: source/fonts/fontawesome-webfont.woff2
+13:07:12.299 DEBUG Processed: source/fonts/iconfont.eot
+13:07:12.299 DEBUG Processed: source/fonts/iconfont.svg
+13:07:12.299 DEBUG Processed: source/fonts/iconfont.ttf
+13:07:12.299 DEBUG Processed: source/fonts/iconfont.woff
+13:07:12.299 DEBUG Processed: source/images/favicon.ico
+13:07:12.299 DEBUG Processed: source/js/APlayer.min.js
+13:07:12.299 DEBUG Processed: source/js/InsightSearch.js
+13:07:12.300 DEBUG Processed: source/js/botui.js
+13:07:12.300 DEBUG Processed: source/js/jquery.fancybox.min.js
+13:07:12.300 DEBUG Processed: source/js/lib.min.js
+13:07:12.300 DEBUG Processed: source/js/sakura-app.js
+13:07:12.300 DEBUG Processed: source/js/zoom.min.js
+13:07:12.300 DEBUG Processed: source/fonts/SAKURASO.old/icon.css
+13:07:12.300 DEBUG Processed: source/fonts/SAKURASO.old/sakuraso-symbol.svg
+13:07:12.300 DEBUG Processed: source/fonts/SAKURASO.old/sakuraso.eot
+13:07:12.300 DEBUG Processed: source/fonts/SAKURASO.old/sakuraso.svg
+13:07:12.300 DEBUG Processed: source/fonts/SAKURASO.old/sakuraso.ttf
+13:07:12.301 DEBUG Processed: source/fonts/SAKURASO.old/sakuraso.woff
+13:07:12.301 DEBUG Processed: source/images/cover/(0).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(1).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(2).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(3).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(4).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(5).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(6).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(7).jpg.webp
+13:07:12.301 DEBUG Processed: source/images/cover/(8).jpg.webp
+13:07:12.302 DEBUG Processed: source/images/donate/AliPayQR.jpg
+13:07:12.303 DEBUG Processed: source/images/donate/BTCQR.png
+13:07:12.303 DEBUG Processed: source/images/donate/WeChanQR.jpg
+13:07:12.303 DEBUG Processed: source/images/donate/WeChanSQ.jpg
+13:07:12.303 DEBUG Processed: source/images/donate/alipay.svg
+13:07:12.303 DEBUG Processed: source/images/donate/bitcoin.svg
+13:07:12.303 DEBUG Processed: source/images/donate/github.svg
+13:07:12.303 DEBUG Processed: source/images/donate/like.svg
+13:07:12.303 DEBUG Processed: source/images/donate/paypal.svg
+13:07:12.303 DEBUG Processed: source/images/donate/wechat.svg
+13:07:12.328 DEBUG Theme config loaded.
+13:07:12.328 DEBUG Processed: layout/archive.ejs
+13:07:12.328 DEBUG Processed: layout/bangumi.ejs
+13:07:12.328 DEBUG Processed: layout/category.ejs
+13:07:12.328 DEBUG Processed: layout/donate.ejs
+13:07:12.328 DEBUG Processed: layout/index.ejs
+13:07:12.328 DEBUG Processed: layout/layout.ejs
+13:07:12.328 DEBUG Processed: layout/links.ejs
+13:07:12.328 DEBUG Processed: layout/page.ejs
+13:07:12.328 DEBUG Processed: layout/post.ejs
+13:07:12.328 DEBUG Processed: layout/tag.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/_page.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/_post.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/aplayer.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/archive.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/category-archive.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/comment.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/footer.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/head.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/header.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/headertop.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/mheader.ejs
+13:07:12.329 DEBUG Processed: layout/_partial/startdash.ejs
+13:07:12.329 DEBUG Processed: layout/_widget/category-items.ejs
+13:07:12.329 DEBUG Processed: layout/_widget/common-article.ejs
+13:07:12.329 DEBUG Processed: layout/_widget/common-page.ejs
+13:07:12.329 DEBUG Processed: layout/_widget/index-items.ejs
+13:07:12.329 DEBUG Processed: languages/en.yml
+13:07:12.329 DEBUG Processed: languages/zh-cn.yml
+13:07:12.329 DEBUG Processed: _config.yml
+13:07:12.330 DEBUG Processed: layout/_widget/search/insight.ejs
+13:07:12.337 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/sakura/source/_posts/Hexo Boot Docs/index.md
+13:07:12.338 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/sakura/source/_posts/Hexo Boot Docs ZH/index.md
+13:07:12.378 DEBUG Generator: asset
+13:07:12.378 DEBUG Generator: page
+13:07:12.378 DEBUG Generator: post
+13:07:12.379 DEBUG Generator: archive
+13:07:12.380 DEBUG Generator: category
+13:07:12.380 DEBUG Generator: index
+13:07:12.381 DEBUG Generator: tag
+13:07:12.386 INFO  Files loaded in 279 ms
+13:07:12.394 DEBUG Rendering HTML post: RFTXWO.html
+13:07:12.398 DEBUG Rendering HTML post: RFTXHO.html
+13:07:12.399 DEBUG Rendering HTML archive: archives/index.html
+13:07:12.400 DEBUG Rendering HTML archive: archives/2022/index.html
+13:07:12.401 DEBUG Rendering HTML archive: archives/2022/07/index.html
+13:07:12.401 DEBUG Rendering HTML index: index.html
+13:07:12.515 INFO  Generated: archives/index.html
+13:07:12.515 INFO  Generated: archives/2022/index.html
+13:07:12.515 INFO  Generated: archives/2022/07/index.html
+13:07:12.516 INFO  Generated: RFTXWO.html
+13:07:12.516 INFO  Generated: RFTXHO.html
+13:07:12.516 INFO  Generated: index.html
+13:07:12.516 INFO  Generated: fonts/iconfont.eot
+13:07:12.516 INFO  Generated: images/favicon.ico
+13:07:12.516 INFO  Generated: fonts/SAKURASO.old/sakuraso-symbol.svg
+13:07:12.516 INFO  Generated: images/donate/BTCQR.png
+13:07:12.517 INFO  Generated: fonts/iconfont.svg
+13:07:12.517 INFO  Generated: fonts/iconfont.ttf
+13:07:12.517 INFO  Generated: fonts/iconfont.woff
+13:07:12.517 INFO  Generated: fonts/SAKURASO.old/sakuraso.eot
+13:07:12.517 INFO  Generated: fonts/SAKURASO.old/sakuraso.svg
+13:07:12.517 INFO  Generated: fonts/SAKURASO.old/sakuraso.ttf
+13:07:12.517 INFO  Generated: fonts/SAKURASO.old/sakuraso.woff
+13:07:12.517 INFO  Generated: images/donate/alipay.svg
+13:07:12.517 INFO  Generated: images/donate/bitcoin.svg
+13:07:12.517 INFO  Generated: images/donate/github.svg
+13:07:12.517 INFO  Generated: images/donate/like.svg
+13:07:12.517 INFO  Generated: images/donate/paypal.svg
+13:07:12.517 INFO  Generated: images/donate/wechat.svg
+13:07:12.517 INFO  Generated: images/cover/(0).jpg.webp
+13:07:12.518 INFO  Generated: fonts/fontawesome-webfont.woff2
+13:07:12.518 INFO  Generated: images/cover/(1).jpg.webp
+13:07:12.518 INFO  Generated: images/cover/(3).jpg.webp
+13:07:12.518 INFO  Generated: images/cover/(7).jpg.webp
+13:07:12.518 INFO  Generated: images/cover/(8).jpg.webp
+13:07:12.518 INFO  Generated: images/donate/WeChanSQ.jpg
+13:07:12.518 INFO  Generated: css/APlayer.min.css
+13:07:12.518 INFO  Generated: js/InsightSearch.js
+13:07:12.518 INFO  Generated: 404.html
+13:07:12.518 INFO  Generated: warn.html
+13:07:12.519 INFO  Generated: css/bangumi.css
+13:07:12.519 INFO  Generated: css/donate.css
+13:07:12.519 INFO  Generated: css/insight.css
+13:07:12.519 INFO  Generated: css/jquery.fancybox.min.css
+13:07:12.519 INFO  Generated: css/sharejs.css
+13:07:12.519 INFO  Generated: css/zoom.css
+13:07:12.519 INFO  Generated: js/zoom.min.js
+13:07:12.519 INFO  Generated: fonts/SAKURASO.old/icon.css
+13:07:12.519 INFO  Generated: css/font.css
+13:07:12.519 INFO  Generated: css/lib.min.css
+13:07:12.519 INFO  Generated: css/style.css
+13:07:12.519 INFO  Generated: js/APlayer.min.js
+13:07:12.520 INFO  Generated: js/botui.js
+13:07:12.520 INFO  Generated: js/jquery.fancybox.min.js
+13:07:12.520 INFO  Generated: js/sakura-app.js
+13:07:12.520 INFO  Generated: images/cover/(2).jpg.webp
+13:07:12.520 INFO  Generated: images/cover/(4).jpg.webp
+13:07:12.520 INFO  Generated: images/cover/(6).jpg.webp
+13:07:12.520 INFO  Generated: images/donate/AliPayQR.jpg
+13:07:12.520 INFO  Generated: images/donate/WeChanQR.jpg
+13:07:12.520 INFO  Generated: images/cover/(5).jpg.webp
+13:07:12.520 INFO  Generated: js/lib.min.js
+13:07:12.520 INFO  56 files generated in 134 ms
+13:07:12.525 DEBUG Database saved

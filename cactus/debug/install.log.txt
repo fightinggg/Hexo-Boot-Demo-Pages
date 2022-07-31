@@ -1,0 +1,218 @@
+13:06:38.392 DEBUG Writing database to /blog/themes-configs/.hexo-multi-themes/cactus/db.json
+13:06:38.401 INFO  Config based on 5 files
+13:06:38.401 DEBUG Writing _multiconfig.yml to /blog/themes-configs/.hexo-multi-themes/cactus/_multiconfig.yml
+13:06:38.412 DEBUG Hexo version: 6.2.0
+13:06:38.413 DEBUG Working directory: /blog/themes-configs/.hexo-multi-themes/cactus/
+13:06:38.475 DEBUG Updating package.json
+13:06:38.480 DEBUG Config loaded: /blog/themes-configs/.hexo-multi-themes/cactus/_multiconfig.yml
+13:06:38.481 INFO  Validating config
+13:06:38.613 DEBUG Plugin loaded: hexo-fightinggg-enhancer
+13:06:38.614 DEBUG Plugin loaded: hexo-generator-archive
+13:06:38.614 DEBUG Plugin loaded: hexo-generator-category
+13:06:38.614 DEBUG Plugin loaded: hexo-generator-index
+13:06:38.614 DEBUG Plugin loaded: hexo-generator-tag
+13:06:38.614 DEBUG Plugin loaded: hexo-renderer-ejs
+13:06:38.614 DEBUG Plugin loaded: hexo-renderer-marked
+13:06:38.614 DEBUG Plugin loaded: hexo-renderer-stylus
+13:06:38.614 DEBUG Plugin loaded: hexo-server
+13:06:38.623 DEBUG Script loaded: themes/cactus/scripts/cdn.js
+13:06:38.623 DEBUG Script loaded: themes/cactus/scripts/merge-configs.js
+13:06:38.623 DEBUG Script loaded: themes/cactus/scripts/meta.js
+13:06:38.624 DEBUG Script loaded: themes/cactus/scripts/page_title.js
+13:06:38.624 DEBUG Script loaded: themes/cactus/scripts/thumbnail.js
+13:06:38.625 INFO  Start processing
+13:06:38.699 DEBUG Processed: _posts/Hexo Boot Docs/config-github.png
+13:06:38.699 DEBUG Processed: _posts/Hexo Boot Docs/multi-theme-config.png
+13:06:38.699 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-config-github.png
+13:06:38.700 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-multi-theme-config.png
+13:06:38.732 DEBUG Processed: _posts/Hexo Boot Docs/index.md
+13:06:38.732 DEBUG Processed: _posts/Hexo Boot Docs ZH/index.md
+13:06:38.874 DEBUG Processed: source/css/rtl.styl
+13:06:38.874 DEBUG Processed: source/css/style.styl
+13:06:38.874 DEBUG Processed: source/images/apple-touch-icon.png
+13:06:38.874 DEBUG Processed: source/images/favicon-192x192.png
+13:06:38.875 DEBUG Processed: source/images/favicon.ico
+13:06:38.875 DEBUG Processed: source/images/logo.png
+13:06:38.875 DEBUG Processed: source/js/main.js
+13:06:38.875 DEBUG Processed: source/js/search.js
+13:06:38.875 DEBUG Processed: source/lib/clipboard/clipboard.min.js
+13:06:38.875 DEBUG Processed: source/lib/jquery/jquery.min.js
+13:06:38.876 DEBUG Processed: source/lib/meslo-LG/MesloLGL-Bold.ttf
+13:06:38.876 DEBUG Processed: source/lib/meslo-LG/MesloLGL-BoldItalic.ttf
+13:06:38.876 DEBUG Processed: source/lib/meslo-LG/MesloLGL-Italic.ttf
+13:06:38.877 DEBUG Processed: source/lib/meslo-LG/MesloLGL-Regular.ttf
+13:06:38.877 DEBUG Processed: source/lib/meslo-LG/MesloLGM-Bold.ttf
+13:06:38.877 DEBUG Processed: source/lib/meslo-LG/MesloLGM-BoldItalic.ttf
+13:06:38.877 DEBUG Processed: source/lib/meslo-LG/MesloLGM-Italic.ttf
+13:06:38.877 DEBUG Processed: source/lib/meslo-LG/MesloLGM-Regular.ttf
+13:06:38.877 DEBUG Processed: source/lib/meslo-LG/MesloLGS-Bold.ttf
+13:06:38.877 DEBUG Processed: source/lib/meslo-LG/MesloLGS-BoldItalic.ttf
+13:06:38.878 DEBUG Processed: source/lib/meslo-LG/MesloLGS-Italic.ttf
+13:06:38.878 DEBUG Processed: source/lib/meslo-LG/MesloLGS-Regular.ttf
+13:06:38.878 DEBUG Processed: source/lib/vazir-font/Vazir-Black.eot
+13:06:38.878 DEBUG Processed: source/lib/vazir-font/Vazir-Black.ttf
+13:06:38.878 DEBUG Processed: source/lib/vazir-font/Vazir-Black.woff
+13:06:38.878 DEBUG Processed: source/lib/vazir-font/Vazir-Black.woff2
+13:06:38.878 DEBUG Processed: source/lib/vazir-font/Vazir-Bold.eot
+13:06:38.878 DEBUG Processed: source/lib/vazir-font/Vazir-Bold.ttf
+13:06:38.878 DEBUG Processed: source/lib/vazir-font/Vazir-Bold.woff
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Bold.woff2
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Light.eot
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Light.ttf
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Light.woff
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Light.woff2
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Medium.eot
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Medium.ttf
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Medium.woff
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Medium.woff2
+13:06:38.879 DEBUG Processed: source/lib/vazir-font/Vazir-Regular.eot
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Regular.ttf
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Regular.woff
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Regular.woff2
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Thin.eot
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Thin.ttf
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Thin.woff
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Thin.woff2
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Variable.eot
+13:06:38.880 DEBUG Processed: source/lib/vazir-font/Vazir-Variable.ttf
+13:06:38.881 DEBUG Processed: source/lib/vazir-font/Vazir-Variable.woff
+13:06:38.881 DEBUG Processed: source/lib/vazir-font/Vazir-Variable.woff2
+13:06:38.881 DEBUG Processed: source/lib/vazir-font/font-face.css
+13:06:38.881 DEBUG Processed: source/lib/font-awesome/css/all.min.css
+13:06:38.881 DEBUG Processed: source/lib/font-awesome/webfonts/fa-brands-400.ttf
+13:06:38.881 DEBUG Processed: source/lib/font-awesome/webfonts/fa-brands-400.woff2
+13:06:38.881 DEBUG Processed: source/lib/font-awesome/webfonts/fa-regular-400.ttf
+13:06:38.881 DEBUG Processed: source/lib/font-awesome/webfonts/fa-regular-400.woff2
+13:06:38.881 DEBUG Processed: source/lib/font-awesome/webfonts/fa-solid-900.ttf
+13:06:38.881 DEBUG Processed: source/lib/font-awesome/webfonts/fa-solid-900.woff2
+13:06:38.882 DEBUG Processed: source/lib/font-awesome/webfonts/fa-v4compatibility.ttf
+13:06:38.882 DEBUG Processed: source/lib/font-awesome/webfonts/fa-v4compatibility.woff2
+13:06:38.882 DEBUG Processed: source/lib/justified-gallery/css/justifiedGallery.min.css
+13:06:38.882 DEBUG Processed: source/lib/justified-gallery/js/jquery.justifiedGallery.min.js
+13:06:38.926 DEBUG Theme config loaded.
+13:06:38.927 DEBUG Processed: layout/archive.ejs
+13:06:38.927 DEBUG Processed: layout/index.ejs
+13:06:38.927 DEBUG Processed: layout/layout.ejs
+13:06:38.927 DEBUG Processed: layout/page.ejs
+13:06:38.927 DEBUG Processed: layout/post.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/comments.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/footer.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/head.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/header.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/pagination.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/scripts.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/search.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/styles.ejs
+13:06:38.927 DEBUG Processed: layout/_partial/post/actions_desktop.ejs
+13:06:38.928 DEBUG Processed: layout/_partial/post/actions_mobile.ejs
+13:06:38.928 DEBUG Processed: layout/_partial/post/category.ejs
+13:06:38.928 DEBUG Processed: layout/_partial/post/date.ejs
+13:06:38.928 DEBUG Processed: layout/_partial/post/gallery.ejs
+13:06:38.928 DEBUG Processed: layout/_partial/post/share.ejs
+13:06:38.928 DEBUG Processed: layout/_partial/post/tag.ejs
+13:06:38.928 DEBUG Processed: languages/ar.yml
+13:06:38.928 DEBUG Processed: languages/ca.yml
+13:06:38.928 DEBUG Processed: languages/de.yml
+13:06:38.928 DEBUG Processed: languages/default.yml
+13:06:38.928 DEBUG Processed: languages/en.yml
+13:06:38.928 DEBUG Processed: languages/es.yml
+13:06:38.928 DEBUG Processed: languages/fa.yml
+13:06:38.928 DEBUG Processed: languages/fr.yml
+13:06:38.928 DEBUG Processed: languages/it.yml
+13:06:38.928 DEBUG Processed: languages/kr.yml
+13:06:38.928 DEBUG Processed: languages/nl.yml
+13:06:38.928 DEBUG Processed: languages/pl.yml
+13:06:38.928 DEBUG Processed: languages/pt-br.yml
+13:06:38.928 DEBUG Processed: languages/ru.yml
+13:06:38.928 DEBUG Processed: languages/tr.yml
+13:06:38.928 DEBUG Processed: languages/vi.yml
+13:06:38.929 DEBUG Processed: languages/zh-CN.yml
+13:06:38.929 DEBUG Processed: languages/zh-TW.yml
+13:06:38.930 DEBUG Processed: _config.yml
+13:06:38.930 DEBUG Processed: layout/_partial/post/title.ejs
+13:06:38.942 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/cactus/source/_posts/Hexo Boot Docs/index.md
+13:06:38.943 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/cactus/source/_posts/Hexo Boot Docs ZH/index.md
+13:06:38.984 DEBUG Generator: asset
+13:06:38.984 DEBUG Generator: page
+13:06:38.985 DEBUG Generator: post
+13:06:38.986 DEBUG Generator: archive
+13:06:38.986 DEBUG Generator: category
+13:06:38.986 DEBUG Generator: index
+13:06:38.987 DEBUG Generator: tag
+13:06:38.994 INFO  Files loaded in 369 ms
+13:06:39.003 DEBUG Rendering HTML post: RFTXWO.html
+13:06:39.007 DEBUG Rendering HTML post: RFTXHO.html
+13:06:39.008 DEBUG Rendering HTML archive: archives/index.html
+13:06:39.010 DEBUG Rendering HTML archive: archives/2022/index.html
+13:06:39.011 DEBUG Rendering HTML archive: archives/2022/07/index.html
+13:06:39.012 DEBUG Rendering HTML index: index.html
+13:06:39.340 INFO  Generated: archives/index.html
+13:06:39.340 INFO  Generated: archives/2022/index.html
+13:06:39.340 INFO  Generated: archives/2022/07/index.html
+13:06:39.344 INFO  Generated: images/apple-touch-icon.png
+13:06:39.346 INFO  Generated: index.html
+13:06:39.346 INFO  Generated: RFTXWO.html
+13:06:39.346 INFO  Generated: RFTXHO.html
+13:06:39.346 INFO  Generated: images/favicon-192x192.png
+13:06:39.346 INFO  Generated: images/favicon.ico
+13:06:39.346 INFO  Generated: lib/font-awesome/webfonts/fa-v4compatibility.woff2
+13:06:39.346 INFO  Generated: lib/vazir-font/Vazir-Black.eot
+13:06:39.349 INFO  Generated: lib/vazir-font/Vazir-Black.ttf
+13:06:39.349 INFO  Generated: lib/vazir-font/Vazir-Bold.eot
+13:06:39.349 INFO  Generated: lib/vazir-font/Vazir-Bold.ttf
+13:06:39.349 INFO  Generated: lib/vazir-font/Vazir-Light.eot
+13:06:39.349 INFO  Generated: lib/vazir-font/Vazir-Light.ttf
+13:06:39.349 INFO  Generated: lib/vazir-font/Vazir-Medium.eot
+13:06:39.349 INFO  Generated: lib/vazir-font/Vazir-Medium.ttf
+13:06:39.351 INFO  Generated: lib/vazir-font/Vazir-Regular.eot
+13:06:39.351 INFO  Generated: lib/vazir-font/Vazir-Regular.ttf
+13:06:39.351 INFO  Generated: lib/vazir-font/Vazir-Thin.eot
+13:06:39.351 INFO  Generated: lib/vazir-font/Vazir-Thin.ttf
+13:06:39.351 INFO  Generated: lib/vazir-font/Vazir-Variable.eot
+13:06:39.351 INFO  Generated: lib/vazir-font/Vazir-Variable.ttf
+13:06:39.351 INFO  Generated: lib/font-awesome/webfonts/fa-brands-400.woff2
+13:06:39.351 INFO  Generated: css/rtl.css
+13:06:39.351 INFO  Generated: js/main.js
+13:06:39.351 INFO  Generated: lib/clipboard/clipboard.min.js
+13:06:39.351 INFO  Generated: lib/jquery/jquery.min.js
+13:06:39.351 INFO  Generated: lib/font-awesome/css/all.min.css
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Black.woff
+13:06:39.355 INFO  Generated: lib/font-awesome/webfonts/fa-regular-400.ttf
+13:06:39.355 INFO  Generated: js/search.js
+13:06:39.355 INFO  Generated: lib/vazir-font/font-face.css
+13:06:39.355 INFO  Generated: css/style.css
+13:06:39.355 INFO  Generated: lib/font-awesome/webfonts/fa-brands-400.ttf
+13:06:39.355 INFO  Generated: lib/font-awesome/webfonts/fa-solid-900.woff2
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Black.woff2
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Bold.woff
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Bold.woff2
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Light.woff
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Light.woff2
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Medium.woff
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Medium.woff2
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Regular.woff
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Regular.woff2
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Thin.woff
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Thin.woff2
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Variable.woff
+13:06:39.355 INFO  Generated: lib/vazir-font/Vazir-Variable.woff2
+13:06:39.355 INFO  Generated: lib/font-awesome/webfonts/fa-regular-400.woff2
+13:06:39.355 INFO  Generated: lib/font-awesome/webfonts/fa-v4compatibility.ttf
+13:06:39.355 INFO  Generated: lib/justified-gallery/css/justifiedGallery.min.css
+13:06:39.356 INFO  Generated: images/logo.png
+13:06:39.356 INFO  Generated: lib/justified-gallery/js/jquery.justifiedGallery.min.js
+13:06:39.356 INFO  Generated: lib/meslo-LG/MesloLGL-BoldItalic.ttf
+13:06:39.356 INFO  Generated: lib/meslo-LG/MesloLGM-BoldItalic.ttf
+13:06:39.356 INFO  Generated: lib/meslo-LG/MesloLGS-BoldItalic.ttf
+13:06:39.356 INFO  Generated: lib/font-awesome/webfonts/fa-solid-900.ttf
+13:06:39.357 INFO  Generated: lib/meslo-LG/MesloLGS-Italic.ttf
+13:06:39.357 INFO  Generated: lib/meslo-LG/MesloLGL-Italic.ttf
+13:06:39.359 INFO  Generated: lib/meslo-LG/MesloLGL-Bold.ttf
+13:06:39.359 INFO  Generated: lib/meslo-LG/MesloLGL-Regular.ttf
+13:06:39.359 INFO  Generated: lib/meslo-LG/MesloLGM-Bold.ttf
+13:06:39.359 INFO  Generated: lib/meslo-LG/MesloLGS-Regular.ttf
+13:06:39.359 INFO  Generated: lib/meslo-LG/MesloLGS-Bold.ttf
+13:06:39.359 INFO  Generated: lib/meslo-LG/MesloLGM-Regular.ttf
+13:06:39.359 INFO  Generated: lib/meslo-LG/MesloLGM-Italic.ttf
+13:06:39.359 INFO  68 files generated in 365 ms
+13:06:39.368 DEBUG Database saved

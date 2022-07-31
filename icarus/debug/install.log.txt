@@ -1,0 +1,156 @@
+13:06:53.496 DEBUG Writing database to /blog/themes-configs/.hexo-multi-themes/icarus/db.json
+13:06:53.505 INFO  Config based on 5 files
+13:06:53.506 DEBUG Writing _multiconfig.yml to /blog/themes-configs/.hexo-multi-themes/icarus/_multiconfig.yml
+13:06:53.517 DEBUG Hexo version: 6.2.0
+13:06:53.517 DEBUG Working directory: /blog/themes-configs/.hexo-multi-themes/icarus/
+13:06:53.577 DEBUG Updating package.json
+13:06:53.597 DEBUG Config loaded: /blog/themes-configs/.hexo-multi-themes/icarus/_multiconfig.yml
+13:06:53.598 INFO  Validating config
+Inferno is in development mode.
+13:06:53.857 DEBUG Plugin loaded: hexo-component-inferno
+13:06:53.857 DEBUG Plugin loaded: hexo-log
+13:06:53.857 DEBUG Plugin loaded: hexo-pagination
+13:06:53.857 DEBUG Plugin loaded: hexo-renderer-inferno
+13:06:53.857 DEBUG Plugin loaded: hexo-renderer-stylus
+13:06:53.857 DEBUG Plugin loaded: hexo-util
+13:06:53.857 DEBUG Plugin loaded: hexo-fightinggg-enhancer
+13:06:53.857 DEBUG Plugin loaded: hexo-generator-archive
+13:06:53.857 DEBUG Plugin loaded: hexo-generator-category
+13:06:53.858 DEBUG Plugin loaded: hexo-generator-index
+13:06:53.858 DEBUG Plugin loaded: hexo-generator-tag
+13:06:53.858 DEBUG Plugin loaded: hexo-renderer-ejs
+13:06:53.858 DEBUG Plugin loaded: hexo-renderer-marked
+13:06:53.918 DEBUG Plugin loaded: hexo-server
+INFO  =======================================
+ ██╗ ██████╗ █████╗ ██████╗ ██╗   ██╗███████╗
+ ██║██╔════╝██╔══██╗██╔══██╗██║   ██║██╔════╝
+ ██║██║     ███████║██████╔╝██║   ██║███████╗
+ ██║██║     ██╔══██║██╔══██╗██║   ██║╚════██║
+ ██║╚██████╗██║  ██║██║  ██║╚██████╔╝███████║
+ ╚═╝ ╚═════╝╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚══════╝
+=============================================
+INFO  === Checking package dependencies ===
+INFO  === Checking theme configurations ===
+WARN  None of the following configuration files is found:
+WARN  - /blog/themes-configs/.hexo-multi-themes/icarus/_config.icarus.yml
+WARN  - /blog/themes-configs/.hexo-multi-themes/icarus/themes/icarus/_config.yml
+INFO  Generating theme configuration file...
+INFO  /blog/themes-configs/.hexo-multi-themes/icarus/_config.icarus.yml created successfully.
+INFO  To skip configuration generation, use "--icarus-dont-generate-config".
+INFO  === Registering Hexo extensions ===
+13:06:54.360 DEBUG Script loaded: themes/icarus/scripts/index.js
+13:06:54.362 INFO  Start processing
+13:06:54.449 DEBUG Processed: _posts/Hexo Boot Docs/config-github.png
+13:06:54.449 DEBUG Processed: _posts/Hexo Boot Docs/multi-theme-config.png
+13:06:54.449 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-config-github.png
+13:06:54.449 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-multi-theme-config.png
+13:06:54.475 DEBUG Processed: _posts/Hexo Boot Docs/index.md
+13:06:54.475 DEBUG Processed: _posts/Hexo Boot Docs ZH/index.md
+13:06:54.526 DEBUG Processed: source/css/cyberpunk.styl
+13:06:54.526 DEBUG Processed: source/css/default.styl
+13:06:54.526 DEBUG Processed: source/css/style.styl
+13:06:54.526 DEBUG Processed: source/img/avatar.png
+13:06:54.526 DEBUG Processed: source/img/favicon.svg
+13:06:54.527 DEBUG Processed: source/img/logo.svg
+13:06:54.527 DEBUG Processed: source/img/og_image.png
+13:06:54.527 DEBUG Processed: source/img/razor-bottom-black.svg
+13:06:54.527 DEBUG Processed: source/img/razor-top-black.svg
+13:06:54.527 DEBUG Processed: source/js/animation.js
+13:06:54.527 DEBUG Processed: source/js/back_to_top.js
+13:06:54.527 DEBUG Processed: source/js/column.js
+13:06:54.527 DEBUG Processed: source/js/main.js
+13:06:56.212 DEBUG Processed: layout/archive.jsx
+13:06:56.212 DEBUG Processed: layout/categories.jsx
+13:06:56.212 DEBUG Processed: layout/category.jsx
+13:06:56.212 DEBUG Processed: layout/index.jsx
+13:06:56.212 DEBUG Processed: layout/layout.jsx
+13:06:56.212 DEBUG Processed: layout/page.jsx
+13:06:56.212 DEBUG Processed: layout/post.jsx
+13:06:56.212 DEBUG Processed: layout/tag.jsx
+13:06:56.212 DEBUG Processed: layout/tags.jsx
+13:06:56.212 DEBUG Processed: layout/comment/.gitkeep
+13:06:56.212 DEBUG Processed: layout/common/article.jsx
+13:06:56.212 DEBUG Processed: layout/common/comment.jsx
+13:06:56.213 DEBUG Processed: layout/common/donates.jsx
+13:06:56.213 DEBUG Processed: layout/common/footer.jsx
+13:06:56.213 DEBUG Processed: layout/common/head.jsx
+13:06:56.213 DEBUG Processed: layout/common/navbar.jsx
+13:06:56.213 DEBUG Processed: layout/common/plugins.jsx
+13:06:56.213 DEBUG Processed: layout/common/scripts.jsx
+13:06:56.213 DEBUG Processed: layout/common/search.jsx
+13:06:56.213 DEBUG Processed: layout/common/share.jsx
+13:06:56.213 DEBUG Processed: layout/common/widgets.jsx
+13:06:56.213 DEBUG Processed: layout/donate/.gitkeep
+13:06:56.213 DEBUG Processed: layout/misc/.gitkeep
+13:06:56.213 DEBUG Processed: layout/plugin/animejs.jsx
+13:06:56.213 DEBUG Processed: layout/plugin/back_to_top.jsx
+13:06:56.213 DEBUG Processed: layout/search/.gitkeep
+13:06:56.213 DEBUG Processed: layout/share/.gitkeep
+13:06:56.213 DEBUG Processed: languages/de.yml
+13:06:56.213 DEBUG Processed: languages/en.yml
+13:06:56.213 DEBUG Processed: languages/es.yml
+13:06:56.213 DEBUG Processed: languages/fr.yml
+13:06:56.213 DEBUG Processed: languages/id.yml
+13:06:56.213 DEBUG Processed: languages/ja.yml
+13:06:56.213 DEBUG Processed: languages/ko.yml
+13:06:56.213 DEBUG Processed: languages/pl.yml
+13:06:56.214 DEBUG Processed: languages/pt-BR.yml
+13:06:56.214 DEBUG Processed: languages/ru.yml
+13:06:56.214 DEBUG Processed: languages/tk.yml
+13:06:56.214 DEBUG Processed: languages/tr.yml
+13:06:56.214 DEBUG Processed: languages/vn.yml
+13:06:56.214 DEBUG Processed: languages/zh-CN.yml
+13:06:56.214 DEBUG Processed: languages/zh-TW.yml
+13:06:56.276 DEBUG Processed: layout/widget/profile.jsx
+13:06:56.284 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/icarus/source/_posts/Hexo Boot Docs/index.md
+13:06:56.285 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/icarus/source/_posts/Hexo Boot Docs ZH/index.md
+13:06:56.329 DEBUG Generator: asset
+13:06:56.330 DEBUG Generator: page
+13:06:56.330 DEBUG Generator: post
+13:06:56.331 DEBUG Generator: archive
+13:06:56.332 DEBUG Generator: category
+13:06:56.332 DEBUG Generator: index
+13:06:56.332 DEBUG Generator: tag
+13:06:56.333 DEBUG Generator: static_assets
+13:06:56.333 DEBUG Generator: insight
+13:06:56.343 DEBUG Generator: categories
+13:06:56.343 DEBUG Generator: manifest
+13:06:56.343 DEBUG Generator: tags
+13:06:56.354 INFO  Files loaded in 1.99 s
+13:06:56.362 DEBUG Rendering HTML post: RFTXWO.html
+13:06:56.387 DEBUG Rendering HTML post: RFTXHO.html
+13:06:56.388 DEBUG Rendering HTML archive: archives/index.html
+13:06:56.390 DEBUG Rendering HTML archive: archives/2022/index.html
+13:06:56.391 DEBUG Rendering HTML archive: archives/2022/07/index.html
+13:06:56.393 DEBUG Rendering HTML index: index.html
+13:06:56.394 DEBUG Rendering HTML categories: categories/index.html
+13:06:56.395 DEBUG Rendering HTML tags: tags/index.html
+13:06:59.386 INFO  Generated: js/algolia.js
+13:06:59.396 INFO  Generated: js/google_cse.js
+13:06:59.396 INFO  Generated: js/insight.js
+13:06:59.397 INFO  Generated: js/toc.js
+13:06:59.397 INFO  Generated: content.json
+13:06:59.397 INFO  Generated: manifest.json
+13:06:59.397 INFO  Generated: archives/index.html
+13:06:59.397 INFO  Generated: archives/2022/index.html
+13:06:59.397 INFO  Generated: archives/2022/07/index.html
+13:06:59.397 INFO  Generated: categories/index.html
+13:06:59.397 INFO  Generated: tags/index.html
+13:06:59.411 INFO  Generated: RFTXWO.html
+13:06:59.412 INFO  Generated: img/avatar.png
+13:06:59.412 INFO  Generated: img/favicon.svg
+13:06:59.412 INFO  Generated: img/logo.svg
+13:06:59.412 INFO  Generated: img/razor-bottom-black.svg
+13:06:59.412 INFO  Generated: img/og_image.png
+13:06:59.412 INFO  Generated: img/razor-top-black.svg
+13:06:59.412 INFO  Generated: RFTXHO.html
+13:06:59.412 INFO  Generated: index.html
+13:06:59.413 INFO  Generated: css/default.css
+13:06:59.413 INFO  Generated: js/back_to_top.js
+13:06:59.413 INFO  Generated: js/column.js
+13:06:59.413 INFO  Generated: js/main.js
+13:06:59.413 INFO  Generated: css/cyberpunk.css
+13:06:59.413 INFO  Generated: css/style.css
+13:06:59.413 INFO  Generated: js/animation.js
+13:06:59.414 INFO  27 files generated in 3.06 s
+13:06:59.428 DEBUG Database saved

@@ -1,0 +1,189 @@
+13:06:21.884 DEBUG Writing database to /blog/themes-configs/.hexo-multi-themes/indigo/db.json
+13:06:21.893 INFO  Config based on 5 files
+13:06:21.894 DEBUG Writing _multiconfig.yml to /blog/themes-configs/.hexo-multi-themes/indigo/_multiconfig.yml
+13:06:21.904 DEBUG Hexo version: 6.2.0
+13:06:21.904 DEBUG Working directory: /blog/themes-configs/.hexo-multi-themes/indigo/
+13:06:21.961 DEBUG Updating package.json
+13:06:21.966 DEBUG Config loaded: /blog/themes-configs/.hexo-multi-themes/indigo/_multiconfig.yml
+13:06:21.967 INFO  Validating config
+13:06:22.189 DEBUG Plugin loaded: hexo-fightinggg-enhancer
+13:06:22.189 DEBUG Plugin loaded: hexo-generator-archive
+13:06:22.189 DEBUG Plugin loaded: hexo-generator-category
+13:06:22.190 DEBUG Plugin loaded: hexo-generator-feed
+13:06:22.190 DEBUG Plugin loaded: hexo-generator-index
+13:06:22.190 DEBUG Plugin loaded: hexo-generator-json-content
+13:06:22.190 DEBUG Plugin loaded: hexo-generator-tag
+13:06:22.190 DEBUG Plugin loaded: hexo-helper-qrcode
+13:06:22.190 DEBUG Plugin loaded: hexo-renderer-ejs
+13:06:22.190 DEBUG Plugin loaded: hexo-renderer-less
+13:06:22.190 DEBUG Plugin loaded: hexo-renderer-marked
+13:06:22.190 DEBUG Plugin loaded: hexo-renderer-stylus
+13:06:22.190 DEBUG Plugin loaded: hexo-server
+13:06:22.193 DEBUG Script loaded: themes/indigo/scripts/plugins.js
+13:06:22.195 INFO  Start processing
+13:06:22.238 DEBUG Processed: _posts/Hexo Boot Docs/config-github.png
+13:06:22.239 DEBUG Processed: _posts/Hexo Boot Docs/multi-theme-config.png
+13:06:22.239 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-config-github.png
+13:06:22.239 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-multi-theme-config.png
+13:06:22.261 DEBUG Processed: _posts/Hexo Boot Docs/index.md
+13:06:22.261 DEBUG Processed: _posts/Hexo Boot Docs ZH/index.md
+13:06:22.332 DEBUG Processed: source/css/style.less
+13:06:22.332 DEBUG Processed: source/img/alipay.jpg
+13:06:22.332 DEBUG Processed: source/img/avatar.jpg
+13:06:22.332 DEBUG Processed: source/img/brand.jpg
+13:06:22.332 DEBUG Processed: source/img/cc.png
+13:06:22.333 DEBUG Processed: source/img/img-err.png
+13:06:22.333 DEBUG Processed: source/img/img-loading.png
+13:06:22.333 DEBUG Processed: source/img/wechat.jpg
+13:06:22.333 DEBUG Processed: source/js/main.js
+13:06:22.333 DEBUG Processed: source/js/main.min.js
+13:06:22.333 DEBUG Processed: source/js/search.js
+13:06:22.333 DEBUG Processed: source/js/search.min.js
+13:06:22.333 DEBUG Processed: source/css/fonts/fontawesome/FontAwesome.otf
+13:06:22.334 DEBUG Processed: source/css/fonts/fontawesome/fontawesome-webfont.eot
+13:06:22.334 DEBUG Processed: source/css/fonts/fontawesome/fontawesome-webfont.svg
+13:06:22.334 DEBUG Processed: source/css/fonts/fontawesome/fontawesome-webfont.ttf
+13:06:22.334 DEBUG Processed: source/css/fonts/fontawesome/fontawesome-webfont.woff
+13:06:22.334 DEBUG Processed: source/css/fonts/fontawesome/fontawesome-webfont.woff2
+13:06:22.335 DEBUG Processed: source/css/fonts/roboto/Roboto-Bold.eot
+13:06:22.335 DEBUG Processed: source/css/fonts/roboto/Roboto-Bold.ttf
+13:06:22.335 DEBUG Processed: source/css/fonts/roboto/Roboto-Bold.woff
+13:06:22.335 DEBUG Processed: source/css/fonts/roboto/Roboto-Bold.woff2
+13:06:22.335 DEBUG Processed: source/css/fonts/roboto/Roboto-Light.eot
+13:06:22.336 DEBUG Processed: source/css/fonts/roboto/Roboto-Light.ttf
+13:06:22.336 DEBUG Processed: source/css/fonts/roboto/Roboto-Light.woff
+13:06:22.336 DEBUG Processed: source/css/fonts/roboto/Roboto-Light.woff2
+13:06:22.336 DEBUG Processed: source/css/fonts/roboto/Roboto-Medium.eot
+13:06:22.336 DEBUG Processed: source/css/fonts/roboto/Roboto-Medium.ttf
+13:06:22.336 DEBUG Processed: source/css/fonts/roboto/Roboto-Medium.woff
+13:06:22.336 DEBUG Processed: source/css/fonts/roboto/Roboto-Medium.woff2
+13:06:22.337 DEBUG Processed: source/css/fonts/roboto/Roboto-Regular.eot
+13:06:22.337 DEBUG Processed: source/css/fonts/roboto/Roboto-Regular.ttf
+13:06:22.337 DEBUG Processed: source/css/fonts/roboto/Roboto-Regular.woff
+13:06:22.337 DEBUG Processed: source/css/fonts/roboto/Roboto-Regular.woff2
+13:06:22.337 DEBUG Processed: source/css/fonts/roboto/Roboto-Thin.eot
+13:06:22.339 DEBUG Processed: source/css/fonts/roboto/Roboto-Thin.ttf
+13:06:22.340 DEBUG Processed: source/css/fonts/roboto/Roboto-Thin.woff
+13:06:22.340 DEBUG Processed: source/css/fonts/roboto/Roboto-Thin.woff2
+13:06:22.373 DEBUG Theme config loaded.
+13:06:22.373 DEBUG Processed: layout/archive.ejs
+13:06:22.373 DEBUG Processed: layout/categories.ejs
+13:06:22.373 DEBUG Processed: layout/category.ejs
+13:06:22.373 DEBUG Processed: layout/index.ejs
+13:06:22.373 DEBUG Processed: layout/layout.ejs
+13:06:22.373 DEBUG Processed: layout/page.ejs
+13:06:22.373 DEBUG Processed: layout/post.ejs
+13:06:22.373 DEBUG Processed: layout/tag.ejs
+13:06:22.374 DEBUG Processed: layout/tags.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/after-footer.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/archive.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/footer.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/head.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/header.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/index-item.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/loading.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/menu.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/paginator.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/post.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/script.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/search.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/tags-bar.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/baidu.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/disqus.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/dynamic-title.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/gitalk.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/gitment.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/google-analytics.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/hyper-comments.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/mathjax.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/page-visit.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/site-visit.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/tajs.ejs
+13:06:22.374 DEBUG Processed: layout/_partial/plugins/uyan.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/plugins/valine.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/category.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/comment.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/copyright.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/date.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/head-meta.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/nav.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/reward-btn.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/reward.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/share-fab.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/share.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/tag.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/title.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/toc.ejs
+13:06:22.375 DEBUG Processed: layout/_partial/post/updated.ejs
+13:06:22.376 DEBUG Processed: languages/en.yml
+13:06:22.376 DEBUG Processed: languages/ja.yml
+13:06:22.376 DEBUG Processed: languages/nl-NL
+13:06:22.376 DEBUG Processed: languages/zh-CN.yml
+13:06:22.376 DEBUG Processed: languages/zh-TW.yml
+13:06:22.376 DEBUG Processed: _config.yml
+13:06:22.384 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/indigo/source/_posts/Hexo Boot Docs/index.md
+13:06:22.385 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/indigo/source/_posts/Hexo Boot Docs ZH/index.md
+13:06:22.427 DEBUG Generator: asset
+13:06:22.428 DEBUG Generator: page
+13:06:22.428 DEBUG Generator: post
+13:06:22.429 DEBUG Generator: archive
+13:06:22.430 DEBUG Generator: category
+13:06:22.430 DEBUG Generator: atom
+13:06:22.446 DEBUG Generator: index
+13:06:22.447 DEBUG Generator: json-content
+13:06:22.452 DEBUG Generator: tag
+13:06:22.458 INFO  Files loaded in 263 ms
+13:06:22.466 DEBUG Rendering HTML post: RFTXWO.html
+13:06:22.482 DEBUG Rendering HTML post: RFTXHO.html
+13:06:22.491 DEBUG Rendering HTML archive: archives/index.html
+13:06:22.494 DEBUG Rendering HTML archive: archives/2022/index.html
+13:06:22.495 DEBUG Rendering HTML archive: archives/2022/07/index.html
+13:06:22.497 DEBUG Rendering HTML index: index.html
+13:06:22.672 INFO  Generated: atom.xml
+13:06:22.672 INFO  Generated: content.json
+13:06:22.673 INFO  Generated: archives/index.html
+13:06:22.673 INFO  Generated: archives/2022/index.html
+13:06:22.673 INFO  Generated: archives/2022/07/index.html
+13:06:22.674 INFO  Generated: index.html
+13:06:22.674 INFO  Generated: RFTXWO.html
+13:06:22.674 INFO  Generated: RFTXHO.html
+13:06:22.674 INFO  Generated: img/alipay.jpg
+13:06:22.675 INFO  Generated: img/avatar.jpg
+13:06:22.675 INFO  Generated: img/brand.jpg
+13:06:22.675 INFO  Generated: img/cc.png
+13:06:22.675 INFO  Generated: img/img-err.png
+13:06:22.675 INFO  Generated: img/img-loading.png
+13:06:22.675 INFO  Generated: img/wechat.jpg
+13:06:22.676 INFO  Generated: js/search.js
+13:06:23.023 INFO  Generated: js/search.min.js
+13:06:23.023 INFO  Generated: js/main.js
+13:06:23.023 INFO  Generated: js/main.min.js
+13:06:23.027 INFO  Generated: css/fonts/fontawesome/fontawesome-webfont.woff
+13:06:23.029 INFO  Generated: css/fonts/roboto/Roboto-Bold.ttf
+13:06:23.029 INFO  Generated: css/fonts/fontawesome/fontawesome-webfont.woff2
+13:06:23.029 INFO  Generated: css/fonts/roboto/Roboto-Light.ttf
+13:06:23.029 INFO  Generated: css/fonts/roboto/Roboto-Medium.ttf
+13:06:23.029 INFO  Generated: css/fonts/roboto/Roboto-Regular.ttf
+13:06:23.029 INFO  Generated: css/fonts/roboto/Roboto-Thin.ttf
+13:06:23.029 INFO  Generated: css/fonts/roboto/Roboto-Bold.eot
+13:06:23.029 INFO  Generated: css/fonts/fontawesome/FontAwesome.otf
+13:06:23.029 INFO  Generated: css/fonts/fontawesome/fontawesome-webfont.eot
+13:06:23.029 INFO  Generated: css/fonts/fontawesome/fontawesome-webfont.ttf
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Bold.woff
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Bold.woff2
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Light.eot
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Light.woff
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Light.woff2
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Medium.eot
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Medium.woff
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Medium.woff2
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Regular.eot
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Regular.woff
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Regular.woff2
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Thin.eot
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Thin.woff
+13:06:23.030 INFO  Generated: css/fonts/roboto/Roboto-Thin.woff2
+13:06:23.030 INFO  Generated: css/fonts/fontawesome/fontawesome-webfont.svg
+13:06:23.031 INFO  Generated: css/style.css
+13:06:23.031 INFO  46 files generated in 573 ms
+13:06:23.036 DEBUG Database saved

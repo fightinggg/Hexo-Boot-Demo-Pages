@@ -1,0 +1,235 @@
+13:05:53.036 DEBUG Writing database to /blog/themes-configs/.hexo-multi-themes/butterfly/db.json
+13:05:53.045 INFO  Config based on 5 files
+13:05:53.046 DEBUG Writing _multiconfig.yml to /blog/themes-configs/.hexo-multi-themes/butterfly/_multiconfig.yml
+13:05:53.056 DEBUG Hexo version: 6.2.0
+13:05:53.057 DEBUG Working directory: /blog/themes-configs/.hexo-multi-themes/butterfly/
+13:05:53.116 DEBUG Updating package.json
+13:05:53.121 DEBUG Config loaded: /blog/themes-configs/.hexo-multi-themes/butterfly/_multiconfig.yml
+13:05:53.121 INFO  Validating config
+13:05:53.502 DEBUG Plugin loaded: hexo-renderer-stylus
+13:05:53.502 DEBUG Plugin loaded: hexo-renderer-pug
+13:05:53.502 DEBUG Plugin loaded: hexo-browsersync
+13:05:53.502 DEBUG Plugin loaded: hexo-fightinggg-enhancer
+13:05:53.502 DEBUG Plugin loaded: hexo-generator-archive
+13:05:53.503 DEBUG Plugin loaded: hexo-generator-category
+13:05:53.503 DEBUG Plugin loaded: hexo-generator-feed
+13:05:53.503 DEBUG Plugin loaded: hexo-generator-index
+13:05:53.821 DEBUG Plugin loaded: hexo-generator-sitemap
+13:05:53.821 DEBUG Plugin loaded: hexo-generator-tag
+13:05:53.821 DEBUG Plugin loaded: hexo-renderer-ejs
+13:05:53.821 DEBUG Plugin loaded: hexo-renderer-jade
+13:05:53.821 DEBUG Plugin loaded: hexo-renderer-marked
+13:05:53.821 DEBUG Plugin loaded: hexo-server
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/events/404.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/events/cdn.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/events/comment.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/events/init.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/events/stylus.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/events/welcome.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/filters/post_lazyload.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/filters/random_cover.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/helpers/aside_archives.js
+13:05:53.861 DEBUG Script loaded: themes/butterfly/scripts/helpers/aside_categories.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/helpers/findArchiveLength.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/helpers/inject_head_js.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/helpers/page.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/helpers/related_post.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/tag/button.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/tag/flink.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/tag/gallery.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/tag/hide.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/tag/inlineImg.js
+13:05:53.862 DEBUG Script loaded: themes/butterfly/scripts/tag/label.js
+13:05:53.865 DEBUG Script loaded: themes/butterfly/scripts/tag/mermaid.js
+13:05:53.865 DEBUG Script loaded: themes/butterfly/scripts/tag/note.js
+13:05:53.866 DEBUG Script loaded: themes/butterfly/scripts/tag/tabs.js
+13:05:53.866 DEBUG Script loaded: themes/butterfly/scripts/tag/timeline.js
+INFO  
+  ===================================================================
+                                                                     
+      #####  #    # ##### ##### ###### #####  ###### #      #   #    
+      #    # #    #   #     #   #      #    # #      #       # #     
+      #####  #    #   #     #   #####  #    # #####  #        #     
+      #    # #    #   #     #   #      #####  #      #        #      
+      #    # #    #   #     #   #      #   #  #      #        #    
+      #####   ####    #     #   ###### #    # #      ######   #  
+
+                            4.3.1
+  ===================================================================
+13:05:53.867 INFO  Start processing
+13:05:53.943 DEBUG Processed: _posts/Hexo Boot Docs/config-github.png
+13:05:53.944 DEBUG Processed: _posts/Hexo Boot Docs/multi-theme-config.png
+13:05:53.944 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-config-github.png
+13:05:53.944 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-multi-theme-config.png
+13:05:54.005 DEBUG Processed: _posts/Hexo Boot Docs/index.md
+13:05:54.005 DEBUG Processed: _posts/Hexo Boot Docs ZH/index.md
+13:05:54.041 DEBUG Processed: source/css/index.styl
+13:05:54.041 DEBUG Processed: source/css/var.styl
+13:05:54.041 DEBUG Processed: source/img/404.jpg
+13:05:54.041 DEBUG Processed: source/img/favicon.png
+13:05:54.041 DEBUG Processed: source/img/friend_404.gif
+13:05:54.041 DEBUG Processed: source/js/main.js
+13:05:54.041 DEBUG Processed: source/js/tw_cn.js
+13:05:54.041 DEBUG Processed: source/js/utils.js
+13:05:54.042 DEBUG Processed: source/js/search/algolia.js
+13:05:54.042 DEBUG Processed: source/js/search/local-search.js
+13:05:58.112 DEBUG Theme config loaded.
+13:05:58.113 DEBUG Processed: layout/archive.pug
+13:05:58.113 DEBUG Processed: layout/category.pug
+13:05:58.113 DEBUG Processed: layout/index.pug
+13:05:58.113 DEBUG Processed: layout/page.pug
+13:05:58.113 DEBUG Processed: layout/post.pug
+13:05:58.113 DEBUG Processed: layout/tag.pug
+13:05:58.113 DEBUG Processed: layout/includes/404.pug
+13:05:58.113 DEBUG Processed: layout/includes/additional-js.pug
+13:05:58.113 DEBUG Processed: layout/includes/footer.pug
+13:05:58.113 DEBUG Processed: layout/includes/head.pug
+13:05:58.113 DEBUG Processed: layout/includes/layout.pug
+13:05:58.113 DEBUG Processed: layout/includes/pagination.pug
+13:05:58.113 DEBUG Processed: layout/includes/rightside.pug
+13:05:58.113 DEBUG Processed: layout/includes/sidebar.pug
+13:05:58.113 DEBUG Processed: layout/includes/head/Open_Graph.pug
+13:05:58.113 DEBUG Processed: layout/includes/head/analytics.pug
+13:05:58.113 DEBUG Processed: layout/includes/head/config.pug
+13:05:58.113 DEBUG Processed: layout/includes/head/config_site.pug
+13:05:58.113 DEBUG Processed: layout/includes/head/google_adsense.pug
+13:05:58.114 DEBUG Processed: layout/includes/head/noscript.pug
+13:05:58.114 DEBUG Processed: layout/includes/head/preconnect.pug
+13:05:58.114 DEBUG Processed: layout/includes/head/pwa.pug
+13:05:58.114 DEBUG Processed: layout/includes/head/site_verification.pug
+13:05:58.114 DEBUG Processed: layout/includes/header/index.pug
+13:05:58.114 DEBUG Processed: layout/includes/header/menu_item.pug
+13:05:58.114 DEBUG Processed: layout/includes/header/nav.pug
+13:05:58.114 DEBUG Processed: layout/includes/header/post-info.pug
+13:05:58.114 DEBUG Processed: layout/includes/header/social.pug
+13:05:58.114 DEBUG Processed: layout/includes/loading/loading-js.pug
+13:05:58.114 DEBUG Processed: layout/includes/loading/loading.pug
+13:05:58.114 DEBUG Processed: layout/includes/mixins/article-sort.pug
+13:05:58.114 DEBUG Processed: layout/includes/mixins/post-ui.pug
+13:05:58.114 DEBUG Processed: layout/includes/page/categories.pug
+13:05:58.114 DEBUG Processed: layout/includes/page/default-page.pug
+13:05:58.114 DEBUG Processed: layout/includes/page/flink.pug
+13:05:58.114 DEBUG Processed: layout/includes/page/tags.pug
+13:05:58.114 DEBUG Processed: layout/includes/post/post-copyright.pug
+13:05:58.114 DEBUG Processed: layout/includes/post/reward.pug
+13:05:58.114 DEBUG Processed: layout/includes/third-party/aplayer.pug
+13:05:58.114 DEBUG Processed: layout/includes/third-party/effect.pug
+13:05:58.114 DEBUG Processed: layout/includes/third-party/pangu.pug
+13:05:58.114 DEBUG Processed: layout/includes/third-party/pjax.pug
+13:05:58.114 DEBUG Processed: layout/includes/third-party/prismjs.pug
+13:05:58.114 DEBUG Processed: layout/includes/third-party/subtitle.pug
+13:05:58.114 DEBUG Processed: layout/includes/widget/card_ad.pug
+13:05:58.114 DEBUG Processed: layout/includes/widget/card_announcement.pug
+13:05:58.114 DEBUG Processed: layout/includes/widget/card_archives.pug
+13:05:58.114 DEBUG Processed: layout/includes/widget/card_author.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_bottom_self.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_categories.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_newest_comment.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_post_toc.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_recent_post.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_tags.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_top_self.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/card_webinfo.pug
+13:05:58.115 DEBUG Processed: layout/includes/widget/index.pug
+13:05:58.115 DEBUG Processed: source/css/_layout/aside.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/chat.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/comments.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/footer.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/head.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/loading.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/pagination.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/post.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/relatedposts.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/reward.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/rightside.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/sidebar.styl
+13:05:58.115 DEBUG Processed: source/css/_layout/third-party.styl
+13:05:58.115 DEBUG Processed: layout/includes/third-party/card-post-count/disqus.pug
+13:05:58.115 DEBUG Processed: layout/includes/third-party/card-post-count/fb.pug
+13:05:58.115 DEBUG Processed: layout/includes/third-party/card-post-count/index.pug
+13:05:58.115 DEBUG Processed: layout/includes/third-party/card-post-count/remark42.pug
+13:05:58.115 DEBUG Processed: layout/includes/third-party/card-post-count/twikoo.pug
+13:05:58.115 DEBUG Processed: layout/includes/third-party/card-post-count/valine.pug
+13:05:58.115 DEBUG Processed: layout/includes/third-party/card-post-count/waline.pug
+13:05:58.115 DEBUG Processed: layout/includes/third-party/chat/chatra.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/chat/crisp.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/chat/daovoice.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/chat/gitter.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/chat/index.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/chat/tidio.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/disqus.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/disqusjs.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/facebook_comments.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/giscus.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/gitalk.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/index.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/js.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/livere.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/remark42.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/twikoo.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/utterances.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/valine.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/comments/waline.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/math/index.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/math/katex.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/math/mathjax.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/math/mermaid.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/newest-comments/disqus-comment.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/newest-comments/github-issues.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/newest-comments/index.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/newest-comments/remark42.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/newest-comments/twikoo-comment.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/newest-comments/valine.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/newest-comments/waline.pug
+13:05:58.116 DEBUG Processed: layout/includes/third-party/search/algolia.pug
+13:05:58.117 DEBUG Processed: layout/includes/third-party/search/index.pug
+13:05:58.117 DEBUG Processed: layout/includes/third-party/search/local-search.pug
+13:05:58.117 DEBUG Processed: layout/includes/third-party/share/add-this.pug
+13:05:58.117 DEBUG Processed: layout/includes/third-party/share/addtoany.pug
+13:05:58.117 DEBUG Processed: layout/includes/third-party/share/index.pug
+13:05:58.117 DEBUG Processed: layout/includes/third-party/share/share-js.pug
+13:05:58.117 DEBUG Processed: languages/default.yml
+13:05:58.117 DEBUG Processed: languages/en.yml
+13:05:58.117 DEBUG Processed: languages/zh-CN.yml
+13:05:58.117 DEBUG Processed: languages/zh-TW.yml
+13:05:58.117 DEBUG Processed: _config.yml
+13:05:58.125 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/butterfly/source/_posts/Hexo Boot Docs/index.md
+13:05:58.126 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/butterfly/source/_posts/Hexo Boot Docs ZH/index.md
+13:05:58.170 DEBUG Generator: 404
+13:05:58.171 DEBUG Generator: asset
+13:05:58.171 DEBUG Generator: page
+13:05:58.171 DEBUG Generator: post
+13:05:58.172 DEBUG Generator: archive
+13:05:58.173 DEBUG Generator: category
+13:05:58.173 DEBUG Generator: atom
+13:05:58.189 DEBUG Generator: index
+13:05:58.189 DEBUG Generator: sitemap
+13:05:58.195 DEBUG Generator: tag
+13:05:58.205 INFO  Files loaded in 4.34 s
+13:05:58.211 DEBUG Rendering HTML post: RFTXWO.html
+13:05:58.252 DEBUG Rendering HTML post: RFTXHO.html
+13:05:58.258 DEBUG Rendering HTML archive: archives/index.html
+13:05:58.271 DEBUG Rendering HTML archive: archives/2022/index.html
+13:05:58.274 DEBUG Rendering HTML archive: archives/2022/07/index.html
+13:05:58.278 DEBUG Rendering HTML index: index.html
+13:05:59.326 INFO  Generated: atom.xml
+13:05:59.326 INFO  Generated: sitemap.xml
+13:05:59.326 INFO  Generated: sitemap.txt
+13:05:59.326 INFO  Generated: archives/index.html
+13:05:59.326 INFO  Generated: archives/2022/index.html
+13:05:59.326 INFO  Generated: archives/2022/07/index.html
+13:05:59.326 INFO  Generated: index.html
+13:05:59.326 INFO  Generated: RFTXWO.html
+13:05:59.326 INFO  Generated: RFTXHO.html
+13:05:59.326 INFO  Generated: img/404.jpg
+13:05:59.327 INFO  Generated: img/favicon.png
+13:05:59.327 INFO  Generated: img/friend_404.gif
+13:05:59.327 INFO  Generated: css/var.css
+13:05:59.327 INFO  Generated: js/utils.js
+13:05:59.327 INFO  Generated: js/search/algolia.js
+13:05:59.327 INFO  Generated: js/search/local-search.js
+13:05:59.327 INFO  Generated: css/index.css
+13:05:59.327 INFO  Generated: js/main.js
+13:05:59.327 INFO  Generated: js/tw_cn.js
+13:05:59.328 INFO  19 files generated in 1.12 s
+13:05:59.332 DEBUG Database saved

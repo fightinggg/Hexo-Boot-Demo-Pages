@@ -1,0 +1,82 @@
+13:06:29.843 DEBUG Writing database to /blog/themes-configs/.hexo-multi-themes/apollo/db.json
+13:06:29.852 INFO  Config based on 5 files
+13:06:29.853 DEBUG Writing _multiconfig.yml to /blog/themes-configs/.hexo-multi-themes/apollo/_multiconfig.yml
+13:06:29.864 DEBUG Hexo version: 6.2.0
+13:06:29.864 DEBUG Working directory: /blog/themes-configs/.hexo-multi-themes/apollo/
+13:06:29.920 DEBUG Updating package.json
+13:06:29.925 DEBUG Config loaded: /blog/themes-configs/.hexo-multi-themes/apollo/_multiconfig.yml
+13:06:29.925 INFO  Validating config
+13:06:30.524 DEBUG Plugin loaded: hexo-browsersync
+13:06:30.524 DEBUG Plugin loaded: hexo-fightinggg-enhancer
+13:06:30.524 DEBUG Plugin loaded: hexo-generator-archive
+13:06:30.524 DEBUG Plugin loaded: hexo-generator-category
+13:06:30.524 DEBUG Plugin loaded: hexo-generator-feed
+13:06:30.524 DEBUG Plugin loaded: hexo-generator-index
+13:06:30.525 DEBUG Plugin loaded: hexo-generator-sitemap
+13:06:30.525 DEBUG Plugin loaded: hexo-generator-tag
+13:06:30.525 DEBUG Plugin loaded: hexo-renderer-ejs
+13:06:30.525 DEBUG Plugin loaded: hexo-renderer-jade
+13:06:30.525 DEBUG Plugin loaded: hexo-renderer-marked
+13:06:30.525 DEBUG Plugin loaded: hexo-renderer-stylus
+13:06:30.525 DEBUG Plugin loaded: hexo-server
+13:06:30.530 INFO  Start processing
+13:06:30.614 DEBUG Processed: _posts/Hexo Boot Docs/config-github.png
+13:06:30.615 DEBUG Processed: _posts/Hexo Boot Docs/multi-theme-config.png
+13:06:30.615 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-config-github.png
+13:06:30.615 DEBUG Processed: _posts/Hexo Boot Docs ZH/zh-multi-theme-config.png
+13:06:30.634 DEBUG Processed: _posts/Hexo Boot Docs/index.md
+13:06:30.634 DEBUG Processed: _posts/Hexo Boot Docs ZH/index.md
+13:06:30.666 DEBUG Processed: source/favicon.png
+13:06:30.667 DEBUG Processed: source/css/apollo.css
+13:06:30.667 DEBUG Processed: source/font/sourcesanspro.woff
+13:06:30.667 DEBUG Processed: source/font/sourcesanspro.woff2
+13:06:30.667 DEBUG Processed: source/scss/apollo.scss
+13:06:31.055 DEBUG Theme config loaded.
+13:06:31.056 DEBUG Processed: layout/archive.jade
+13:06:31.056 DEBUG Processed: layout/index.jade
+13:06:31.056 DEBUG Processed: layout/post.jade
+13:06:31.056 DEBUG Processed: layout/mixins/paginator.jade
+13:06:31.056 DEBUG Processed: layout/mixins/post.jade
+13:06:31.056 DEBUG Processed: layout/partial/comment.jade
+13:06:31.056 DEBUG Processed: layout/partial/copyright.jade
+13:06:31.056 DEBUG Processed: layout/partial/head.jade
+13:06:31.056 DEBUG Processed: layout/partial/layout.jade
+13:06:31.056 DEBUG Processed: layout/partial/nav.jade
+13:06:31.056 DEBUG Processed: layout/partial/scripts.jade
+13:06:31.056 DEBUG Processed: languages/en.yml
+13:06:31.056 DEBUG Processed: languages/zh-cn.yml
+13:06:31.056 DEBUG Processed: _config.yml
+13:06:31.064 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/apollo/source/_posts/Hexo Boot Docs/index.md
+13:06:31.065 DEBUG Rendering post: /blog/themes-configs/.hexo-multi-themes/apollo/source/_posts/Hexo Boot Docs ZH/index.md
+13:06:31.106 DEBUG Generator: asset
+13:06:31.107 DEBUG Generator: page
+13:06:31.107 DEBUG Generator: post
+13:06:31.108 DEBUG Generator: archive
+13:06:31.109 DEBUG Generator: category
+13:06:31.109 DEBUG Generator: atom
+13:06:31.125 DEBUG Generator: index
+13:06:31.126 DEBUG Generator: sitemap
+13:06:31.131 DEBUG Generator: tag
+13:06:31.136 INFO  Files loaded in 609 ms
+13:06:31.141 DEBUG Rendering HTML post: RFTXWO.html
+13:06:31.146 DEBUG Rendering HTML post: RFTXHO.html
+13:06:31.147 DEBUG Rendering HTML archive: archives/index.html
+13:06:31.148 DEBUG Rendering HTML archive: archives/2022/index.html
+13:06:31.149 DEBUG Rendering HTML archive: archives/2022/07/index.html
+13:06:31.150 DEBUG Rendering HTML index: index.html
+13:06:31.161 INFO  Generated: atom.xml
+13:06:31.162 INFO  Generated: sitemap.xml
+13:06:31.162 INFO  Generated: sitemap.txt
+13:06:31.162 INFO  Generated: archives/index.html
+13:06:31.162 INFO  Generated: archives/2022/index.html
+13:06:31.162 INFO  Generated: archives/2022/07/index.html
+13:06:31.162 INFO  Generated: RFTXWO.html
+13:06:31.162 INFO  Generated: RFTXHO.html
+13:06:31.162 INFO  Generated: index.html
+13:06:31.162 INFO  Generated: font/sourcesanspro.woff
+13:06:31.162 INFO  Generated: scss/apollo.scss
+13:06:31.162 INFO  Generated: favicon.png
+13:06:31.163 INFO  Generated: font/sourcesanspro.woff2
+13:06:31.164 INFO  Generated: css/apollo.css
+13:06:31.164 INFO  14 files generated in 28 ms
+13:06:31.171 DEBUG Database saved
